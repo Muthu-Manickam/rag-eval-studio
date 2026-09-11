@@ -4,6 +4,7 @@ An evaluation dashboard for retrieval-augmented generation. Score RAG outputs wi
 
 Built with **Next.js 16 · TypeScript · Vercel AI SDK 7 · Strands Agents · Langfuse**.
 
+[![CI](https://github.com/Muthu-Manickam/rag-eval-studio/actions/workflows/ci.yml/badge.svg)](https://github.com/Muthu-Manickam/rag-eval-studio/actions/workflows/ci.yml)
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript&logoColor=white)
 ![AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-7-000000?logo=vercel)
